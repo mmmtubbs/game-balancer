@@ -1,0 +1,76 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2182)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Marcus\Desktop\Game Balancer\game-balancer_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 5760x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.529000 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMethods.RedUpdate () [0x00000] in <filename unknown>:0 
+  at PlayerMethods.TakeTurn () [0x00000] in <filename unknown>:0 
+  at BoardController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1611.655396 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.453000 ms (FindLiveObjects: 0.057500 ms CreateObjectMapping: 0.018900 ms MarkObjects: 0.354700 ms  DeleteObjects: 0.020700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1677.323486 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.287300 ms (FindLiveObjects: 0.021300 ms CreateObjectMapping: 0.011600 ms MarkObjects: 0.240500 ms  DeleteObjects: 0.013200 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMethods.RedUpdate () [0x00000] in <filename unknown>:0 
+  at PlayerMethods.TakeTurn () [0x00000] in <filename unknown>:0 
+  at BoardController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1769.542969 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.298300 ms (FindLiveObjects: 0.020700 ms CreateObjectMapping: 0.010900 ms MarkObjects: 0.249900 ms  DeleteObjects: 0.016400 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMethods.RedUpdate () [0x00000] in <filename unknown>:0 
+  at PlayerMethods.TakeTurn () [0x00000] in <filename unknown>:0 
+  at BoardController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1909.262085 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 595.
+Total: 0.278400 ms (FindLiveObjects: 0.019200 ms CreateObjectMapping: 0.011000 ms MarkObjects: 0.233900 ms  DeleteObjects: 0.013900 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PlayerMethods.RedUpdate () [0x00000] in <filename unknown>:0 
+  at PlayerMethods.TakeTurn () [0x00000] in <filename unknown>:0 
+  at BoardController.FixedUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
